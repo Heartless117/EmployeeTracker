@@ -3,7 +3,7 @@
    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-Using the intergrated terminal you will generate your own README
+Using the intergrated terminal you will TRACK YOUR EMPLOYEE
 
 ## Table of Contents
 - [Installation](#installation)
@@ -16,12 +16,11 @@ Using the intergrated terminal you will generate your own README
 
 ## Installation
 
-First node, inquirer, then install
 
 
 ## Usage
 
-You open the interdrated terminal and write this command "node index.js"
+
 
 ## Contribution
 n/a
